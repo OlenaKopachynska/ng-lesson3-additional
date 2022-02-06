@@ -7,4 +7,8 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'ng-lesson3-additional';
+
+  fontSize?: number;
+  className?: string;
+
 }
